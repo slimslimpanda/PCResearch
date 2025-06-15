@@ -4,6 +4,10 @@
 
 FUJITSU LIFEBOOK U939は、富士通が2019年から2020年にかけて発売した13.3インチの超軽量ビジネスノートパソコンです[1][2]。約898gという軽量性と堅牢性を両立したモバイルワークステーションとして、多くのビジネスユーザーから高い評価を受けています[3][4]。
 
+## 製品詳細
+![FUJITSU LIFEBOOK U939](./img/Lifebook_U939.jpg)
+https://jp.fujitsu.com/platform/pc/product/lifebook/1907/u939b/
+
 ## 主要スペック
 
 ### 基本仕様
